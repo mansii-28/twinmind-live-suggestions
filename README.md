@@ -42,7 +42,7 @@ A browser-based live meeting copilot that transcribes microphone audio in real t
 
 ```bash
 # 1. Clone the repo
-git clone <your-repo-url>
+git clone (https://github.com/mansii-28/twinmind-live-suggestions.git)
 cd twinmind-live-suggestions
 
 # 2. Install dependencies
